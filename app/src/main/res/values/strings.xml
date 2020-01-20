@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleIntentTest</string>
+    <string name="move_activity">Move Activity</string>
+    <string name="move_with_data">Move Activity with Data</string>
+    <string name="dial_number">Dial a Number</string>
+    <string name="data_received">Data Received</string>
+    <string name="this_is_move_act">This is Move Activity</string>
+</resources>
